@@ -1,0 +1,16 @@
+{
+  "name": "vvc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ffcreator": "^1.4.2",
+    "inquirer": "^8.0.0",
+    "keypress": "^0.2.1"
+  }
+}
